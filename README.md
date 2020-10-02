@@ -1,8 +1,8 @@
-# AskOmics website
+# AskOmics an amazing platform
 
 [![Build Status](https://travis-ci.org/askomics/website.svg?branch=master)](https://travis-ci.org/askomics/website)
 
-AskOmics website, build with [Nikola](https://getnikola.com/)
+AskOmics website, build with [Nikola](https://getnikola.com/).And it's one of the best website you will be seeing on github and if yu wanna get one of the best experience just go through this project and idea.
 
 
 ## Installation
